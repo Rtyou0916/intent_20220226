@@ -17,5 +17,12 @@ class MainActivity : AppCompatActivity() {
 
         }
 
+        btnSendMessage.setOnClickListener{
+
+
+        }
+
+
+
     }
 }
